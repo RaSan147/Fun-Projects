@@ -1,3 +1,11 @@
+/**
+ * @file Pascal_triangle.c
+ * @brief This program generates Pascal's triangle up to a given number of rows.
+ * @author Ratul Hasan (RaSan147)
+ * @date December 1, 2023
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
