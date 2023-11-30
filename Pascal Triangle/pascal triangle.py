@@ -54,6 +54,7 @@ else:
 			ind+=1
 
 		new_base.append(0)
+		base.clear()
 		base=new_base
 
 		printLine(new_base, distance)
